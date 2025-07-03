@@ -1,0 +1,88 @@
+const productsData = [
+  {
+    name: "Glyfosil - 41",
+    image: "fertizer1.webp",  
+    weight: "1 litre",
+    originalPrice: 1195,
+    discountedPrice: 670,
+  },
+  {
+    name: "Lowbis Herbicide",
+    image: "fertizer2.webp",
+    weight: "115 ml",
+    originalPrice: 1795,
+    discountedPrice: 1100,
+  },
+  {
+    name: "Katyayani Clearance",
+    image: "fertizer3.webp",
+    weight: "515 ml",
+    originalPrice: 1140,
+    discountedPrice: 630,
+  },
+   {
+    name: "Glyfosil - 41",
+    image: "fertizer1.webp",  
+    weight: "1 litre",
+    originalPrice: 1195,
+    discountedPrice: 670,
+  },
+  {
+    name: "Lowbis Herbicide",
+    image: "fertizer2.webp",
+    weight: "115 ml",
+    originalPrice: 1795,
+    discountedPrice: 1100,
+  },
+  {
+    name: "Katyayani Clearance",
+    image: "fertizer3.webp",
+    weight: "515 ml",
+    originalPrice: 1140,
+    discountedPrice: 630,
+  },
+   {
+    name: "Glyfosil - 41",
+    image: "fertizer1.webp",  
+    weight: "1 litre",
+    originalPrice: 1195,
+    discountedPrice: 670,
+  },
+  {
+    name: "Lowbis Herbicide",
+    image: "fertizer2.webp",
+    weight: "115 ml",
+    originalPrice: 1795,
+    discountedPrice: 1100,
+  },
+  {
+    name: "Katyayani Clearance",
+    image: "fertizer3.webp",
+    weight: "515 ml",
+    originalPrice: 1140,
+    discountedPrice: 630,
+  },
+   {
+    name: "Glyfosil - 41",
+    image: "fertizer1.webp",  
+    weight: "1 litre",
+    originalPrice: 1195,
+    discountedPrice: 670,
+  },
+  {
+    name: "Lowbis Herbicide",
+    image: "fertizer2.webp",
+    weight: "115 ml",
+    originalPrice: 1795,
+    discountedPrice: 1100,
+  },
+  {
+    name: "Katyayani Clearance",
+    image: "fertizer3.webp",
+    weight: "515 ml",
+    originalPrice: 1140,
+    discountedPrice: 630,
+  },
+];
+
+export default productsData;
